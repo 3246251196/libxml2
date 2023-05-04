@@ -89,6 +89,6 @@ make install
 
 create_amiga_SDK_package
 
-echo "FINISHED. See libxml2_2.10.3_.lha"
+echo "FINISHED. See libxml2_2.10.3.lha"
 
 exit 0
